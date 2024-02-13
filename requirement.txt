@@ -3,4 +3,5 @@ numpy==1.26.2
 streamlit
 pickle 
 scikit-learn
+sklearn
 pip==24.0
